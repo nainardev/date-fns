@@ -36,7 +36,7 @@ The library is available as an [npm package](https://www.npmjs.com/package/date-
 To install the package run:
 
 ```bash
-npm install date-fns --save
+npm install date-fns
 # or with yarn
 yarn add date-fns
 ```
